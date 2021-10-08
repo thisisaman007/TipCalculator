@@ -1,0 +1,21 @@
+UI and Functional test cases for this Tip Calculator:
+
+UI testcases - 
+1.  Check if the page is loading properly.
+2.  Verify if form is labled correctly.
+3.  Check if fields of the form accepts only Numerical values.
+4.  Verify the feedback/reponse when no or partial inputs are provided.
+5.  Verify if the button is clickable.
+6.  Verify if all inputs are provided correctly, the button works.
+7.  Verify the result display area is reset default when first visited the page.
+8.  Verify the result is properly displayed.
+9.  Verify if any pop-ups appear.
+10. Verify the resuability of the tip calculator.
+
+
+Functional Testcases - 
+11. Verify if all inputs are correctly parsed, and if they accept correct datatype. 
+12. Verify if the output calculated on partial input, it provides proper feedback.
+13. Verify if all inputs are provided, the output displayed is correct.
+14. Verify if the format of out is correct. 
+15. Verify if the tip-calculator is reused, the old result value does not interfear with the new result value.
